@@ -1659,10 +1659,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/katex@npm:^0.11.0":
-  version: 0.11.1
-  resolution: "@types/katex@npm:0.11.1"
-  checksum: 25301faa94c6802167bca502c2deb43f1e9702bd885dbb65f402db7572f7ca68129bff601d413ce09b146c2faca34c02bcd77701149730ba0163d0e2cf6737c6
+"@types/katex@npm:^0.16.0":
+  version: 0.16.7
+  resolution: "@types/katex@npm:0.16.7"
+  checksum: 68dcb9f68a90513ec78ca0196a142e15c2a2c270b1520d752bafd47a99207115085a64087b50140359017d7e9c870b3c68e7e4d36668c9e348a9ef0c48919b5a
   languageName: node
   linkType: hard
 
@@ -2556,7 +2556,7 @@ __metadata:
     rehype-stringify: "npm:^9.0.4"
     remark-breaks: "npm:^3.0.3"
     remark-gfm: "npm:^3.0.1"
-    remark-math: "npm:^5.1.1"
+    remark-math: "npm:^6.0.0"
     remark-parse: "npm:^10.0.2"
     remark-rehype: "npm:^10.1.0"
     remark-supersub: "npm:^1.0.0"
@@ -2720,7 +2720,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"commander@npm:^8.0.0":
+"commander@npm:^8.3.0":
   version: 8.3.0
   resolution: "commander@npm:8.3.0"
   checksum: 8b043bb8322ea1c39664a1598a95e0495bfe4ca2fad0d84a92d7d1d8d213e2a155b441d2470c8e08de7c4a28cf2bc6e169211c49e1b21d9f7edc6ae4d9356060
@@ -5208,14 +5208,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"katex@npm:^0.13.0":
-  version: 0.13.24
-  resolution: "katex@npm:0.13.24"
+"katex@npm:^0.16.0":
+  version: 0.16.9
+  resolution: "katex@npm:0.16.9"
   dependencies:
-    commander: "npm:^8.0.0"
+    commander: "npm:^8.3.0"
   bin:
     katex: cli.js
-  checksum: 970809c6c3860f41b13dd786950fc4d301b948933e995c8453f743ba4b9560b30b4d630057b84a7243b7663a104bc1b319e6a130d97f8c7308c417d7ed148070
+  checksum: 750b1d61063eda970b97bfb2e8e26c898548ce2b544286813982498b1ce1d4cfae41dd32fa7e9488b6118a4c8df5cf06871746993d45227de34ea224c63199df
   languageName: node
   linkType: hard
 
@@ -5552,14 +5552,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mdast-util-math@npm:^2.0.0":
-  version: 2.0.2
-  resolution: "mdast-util-math@npm:2.0.2"
+"mdast-util-math@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "mdast-util-math@npm:3.0.0"
   dependencies:
-    "@types/mdast": "npm:^3.0.0"
+    "@types/hast": "npm:^3.0.0"
+    "@types/mdast": "npm:^4.0.0"
+    devlop: "npm:^1.0.0"
     longest-streak: "npm:^3.0.0"
-    mdast-util-to-markdown: "npm:^1.3.0"
-  checksum: 2270b6f8d7f0eb7dd5c27bee8ad43f29a8e76a7092742945fd115480ddd8bf72ae53ba1f8f63697cec82016e0c169f0a201503862dfe6bc7ac2286662de3fe8e
+    mdast-util-from-markdown: "npm:^2.0.0"
+    mdast-util-to-markdown: "npm:^2.1.0"
+    unist-util-remove-position: "npm:^5.0.0"
+  checksum: d4e839e38719f26872ed78aac18339805a892f1b56585a9cb8668f34e221b4f0660b9dfe49ec96dbbe79fd1b63b648608a64046d8286bcd2f9d576e80b48a0a1
   languageName: node
   linkType: hard
 
@@ -5690,7 +5694,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mdast-util-to-markdown@npm:^2.0.0":
+"mdast-util-to-markdown@npm:^2.0.0, mdast-util-to-markdown@npm:^2.1.0":
   version: 2.1.0
   resolution: "mdast-util-to-markdown@npm:2.1.0"
   dependencies:
@@ -5873,18 +5877,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"micromark-extension-math@npm:^2.0.0":
-  version: 2.0.2
-  resolution: "micromark-extension-math@npm:2.0.2"
+"micromark-extension-math@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "micromark-extension-math@npm:3.0.0"
   dependencies:
-    "@types/katex": "npm:^0.11.0"
-    katex: "npm:^0.13.0"
-    micromark-factory-space: "npm:^1.0.0"
-    micromark-util-character: "npm:^1.0.0"
-    micromark-util-symbol: "npm:^1.0.0"
-    micromark-util-types: "npm:^1.0.0"
-    uvu: "npm:^0.5.0"
-  checksum: c7bd7bada90f2b0180ca3f0bd1d2f022f45725439bed436900d805ff7163a44bb2630b79afa313ba897d71d9a9144981b88f201097e7c2a0c24cd16b3e8817c6
+    "@types/katex": "npm:^0.16.0"
+    devlop: "npm:^1.0.0"
+    katex: "npm:^0.16.0"
+    micromark-factory-space: "npm:^2.0.0"
+    micromark-util-character: "npm:^2.0.0"
+    micromark-util-symbol: "npm:^2.0.0"
+    micromark-util-types: "npm:^2.0.0"
+  checksum: 2f0d11d2860e0f062a89c959b07fd36fed91dfd67684ae667c4eb70c7ac4a35aadb183d22e855c959ef1dc9036fd9d42d575658bacbfd5f48cdfa4cc568444ea
   languageName: node
   linkType: hard
 
@@ -7443,15 +7447,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"remark-math@npm:^5.1.1":
-  version: 5.1.1
-  resolution: "remark-math@npm:5.1.1"
+"remark-math@npm:^6.0.0":
+  version: 6.0.0
+  resolution: "remark-math@npm:6.0.0"
   dependencies:
-    "@types/mdast": "npm:^3.0.0"
-    mdast-util-math: "npm:^2.0.0"
-    micromark-extension-math: "npm:^2.0.0"
-    unified: "npm:^10.0.0"
-  checksum: e61e314398e65d1ef9343cce37bdb8e94697772d53f1b9e48f815cece35033b4d41db81766696135558c6de40f2ad86877b49891daec6c7b1453dba0e034a9dc
+    "@types/mdast": "npm:^4.0.0"
+    mdast-util-math: "npm:^3.0.0"
+    micromark-extension-math: "npm:^3.0.0"
+    unified: "npm:^11.0.0"
+  checksum: 859613c4db194bb6b3c9c063661dc52b8ceda9c5cf3256b42f73d93eb8f38a6d634eb5f976fe094425f6f1035aaf329eb49ada314feb3b2b1073326b6d3aaa02
   languageName: node
   linkType: hard
 
