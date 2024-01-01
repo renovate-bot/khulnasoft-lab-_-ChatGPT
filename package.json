@@ -10,7 +10,7 @@
   "devDependencies": {
     "@crxjs/vite-plugin": "^2.0.0-beta.21",
     "@headlessui/tailwindcss": "^0.2.0",
-    "@types/humanize-duration": "^3.27.2",
+    "@types/humanize-duration": "^3.27.3",
     "@types/lodash-es": "^4.17.10",
     "@types/md5": "^2.3.4",
     "@types/react": "18.2.18",
@@ -60,7 +60,7 @@
     "github-markdown-css": "^5.4.0",
     "gpt3-tokenizer": "^1.1.5",
     "highlight.js": "^11.9.0",
-    "humanize-duration": "^3.30.0",
+    "humanize-duration": "^3.31.0",
     "i18next": "^23.6.0",
     "i18next-browser-languagedetector": "^7.1.0",
     "immer": "^10.0.3",
