@@ -1763,12 +1763,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-scroll-to-bottom@npm:^4.2.3":
-  version: 4.2.3
-  resolution: "@types/react-scroll-to-bottom@npm:4.2.3"
+"@types/react-scroll-to-bottom@npm:^4.2.4":
+  version: 4.2.4
+  resolution: "@types/react-scroll-to-bottom@npm:4.2.4"
   dependencies:
     "@types/react": "npm:*"
-  checksum: b9fe1d21a85379d5e6a4676430f79067999adc5bad32b3be88831b52218474781f1b21ecb2c6f06c94fbfb86f08525efc1aa5197c0fc98b2e49e7c31e4e50188
+  checksum: 2a98d07b14bf4c98cc81a956bb3d943a3af3a461b6389de2f2ca736d0eade14630d002c9ee003af6b40ad8bcb51c66e05ba8e629c7cf633c1e36fe400165ce78
   languageName: node
   linkType: hard
 
@@ -2542,7 +2542,7 @@ __metadata:
     "@types/react-color": "npm:^3.0.9"
     "@types/react-copy-to-clipboard": "npm:^5.0.6"
     "@types/react-dom": "npm:^18.2.14"
-    "@types/react-scroll-to-bottom": "npm:^4.2.3"
+    "@types/react-scroll-to-bottom": "npm:^4.2.4"
     "@types/turndown": "npm:^5.0.3"
     "@types/uuid": "npm:^9.0.6"
     "@types/webextension-polyfill": "npm:^0.10.5"
