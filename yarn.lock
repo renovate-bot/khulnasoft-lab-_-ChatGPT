@@ -1736,12 +1736,12 @@ __metadata:
   linkType: hard
 
 "@types/react-color@npm:^3.0.9":
-  version: 3.0.9
-  resolution: "@types/react-color@npm:3.0.9"
+  version: 3.0.11
+  resolution: "@types/react-color@npm:3.0.11"
   dependencies:
     "@types/react": "npm:*"
     "@types/reactcss": "npm:*"
-  checksum: c5f9c780649e795b6a69c9ac124448ebb74be5c8958c8b8a95dec79982b384afe4aa0b39e21d00d123e9486e032eee69c51730cbe0fb041ada5ac79f3c7912a0
+  checksum: 0440c5b8583fbfa5c7858475d65d89d1b19717e4cd4782da24c633f3b137d20b9bb810a6ba109d337eb5ed5eb9953852440c2b6a0ab702138970718b90a54c7e
   languageName: node
   linkType: hard
 
