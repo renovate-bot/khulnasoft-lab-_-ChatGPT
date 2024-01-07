@@ -1643,10 +1643,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/humanize-duration@npm:^3.27.2":
-  version: 3.27.2
-  resolution: "@types/humanize-duration@npm:3.27.2"
-  checksum: 71bf54497ea31e96dfaf2ce946d59d07e7276865af14fc9167f3130cb8d254b1484965e34b7c4f5dcd3e0a55fe5d93728bdaa3eb6012dc73e56d335e6e694861
+"@types/humanize-duration@npm:^3.27.3":
+  version: 3.27.3
+  resolution: "@types/humanize-duration@npm:3.27.3"
+  checksum: 90fc7ddf6ea526f42eec12f2b6261024ab2c46ce331f46c65848d2618ed133aacf123ae04bb1bc33ab15f584423e4f484b8110c2e480d10c62ee66efca0ee5e2
   languageName: node
   linkType: hard
 
@@ -2533,7 +2533,7 @@ __metadata:
     "@sentry/integrations": "npm:^7.77.0"
     "@sentry/react": "npm:^7.77.0"
     "@tanstack/react-router": "npm:^0.0.1-beta.83"
-    "@types/humanize-duration": "npm:^3.27.2"
+    "@types/humanize-duration": "npm:^3.27.3"
     "@types/lodash-es": "npm:^4.17.10"
     "@types/md5": "npm:^2.3.4"
     "@types/react": "npm:18.2.18"
@@ -2563,7 +2563,7 @@ __metadata:
     github-markdown-css: "npm:^5.4.0"
     gpt3-tokenizer: "npm:^1.1.5"
     highlight.js: "npm:^11.9.0"
-    humanize-duration: "npm:^3.30.0"
+    humanize-duration: "npm:^3.31.0"
     i18next: "npm:^23.6.0"
     i18next-browser-languagedetector: "npm:^7.1.0"
     immer: "npm:^10.0.3"
@@ -4422,10 +4422,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"humanize-duration@npm:^3.30.0":
-  version: 3.30.0
-  resolution: "humanize-duration@npm:3.30.0"
-  checksum: cd0b71189fb61022b82cee8acabdb83322e1652158c1dfcfecab693e53372a70b3ba393c836fb90f1c05a63b65d56a70f28e9707e2ebf41f0990a5212b17fc79
+"humanize-duration@npm:^3.31.0":
+  version: 3.31.0
+  resolution: "humanize-duration@npm:3.31.0"
+  checksum: a78612f6920bd1348401632f4d707da877878473d0b92b6df4c8eff65700365715daae3238324a2c49e25dbddd5d033d5acbb85edc1551eb5f6120a61eb3fd2b
   languageName: node
   linkType: hard
 
