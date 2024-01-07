@@ -7349,11 +7349,11 @@ __metadata:
   linkType: hard
 
 "react-viewport-list@npm:^7.1.1":
-  version: 7.1.1
-  resolution: "react-viewport-list@npm:7.1.1"
+  version: 7.1.2
+  resolution: "react-viewport-list@npm:7.1.2"
   peerDependencies:
     react: ">=17.0.0"
-  checksum: 45eecf3f636cf2771dfc3c48fa5c2b90abcde153b0ea277558be6aec3024452e4569c7f8237475ed12ab35dd9a0a637406a5abb6058af119a7a4133e654c8d07
+  checksum: 672807a246d87e10d1a939c93d9eefdc7979a351644a817f090d22e6e16f3d1926d3d59688aaadfc57d203aab5cab09db86c739c9dbc32ec1ef1a86dc0ccea37
   languageName: node
   linkType: hard
 
