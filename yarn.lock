@@ -1744,11 +1744,11 @@ __metadata:
   linkType: hard
 
 "@types/react-copy-to-clipboard@npm:^5.0.6":
-  version: 5.0.6
-  resolution: "@types/react-copy-to-clipboard@npm:5.0.6"
+  version: 5.0.7
+  resolution: "@types/react-copy-to-clipboard@npm:5.0.7"
   dependencies:
     "@types/react": "npm:*"
-  checksum: c03fa75de2db27b08a86f258443b7e61184150a69fb0a22ab6d8181c652c126cdea71d3de5ad41ef9b23602283bea1d3c13784629970feda77984dc83533119e
+  checksum: 33bea4549fa263b597d0dedb3807f99286d8ccf59adb370e3d82d1c9075195925a343982abd73c63cc47854a7240ddae79873a5cb3590c9b33c1b65bf9d07689
   languageName: node
   linkType: hard
 
