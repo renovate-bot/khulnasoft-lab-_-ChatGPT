@@ -1762,11 +1762,11 @@ __metadata:
   linkType: hard
 
 "@types/react-scroll-to-bottom@npm:^4.2.4":
-  version: 4.2.4
-  resolution: "@types/react-scroll-to-bottom@npm:4.2.4"
+  version: 4.2.5
+  resolution: "@types/react-scroll-to-bottom@npm:4.2.5"
   dependencies:
     "@types/react": "npm:*"
-  checksum: 2a98d07b14bf4c98cc81a956bb3d943a3af3a461b6389de2f2ca736d0eade14630d002c9ee003af6b40ad8bcb51c66e05ba8e629c7cf633c1e36fe400165ce78
+  checksum: facc2fd422a52b0177fa39fea5fa4acaa7e92e11483229729b281bd2516a4c13d355949bbecf85e3f8f265791904ef9af1f249b93674e4f82260085c3092cd82
   languageName: node
   linkType: hard
 
