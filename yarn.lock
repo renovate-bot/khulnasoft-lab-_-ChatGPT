@@ -2613,7 +2613,7 @@ __metadata:
     typescript: "npm:^5.2.2"
     unified: "npm:^10.1.2"
     uuid: "npm:^9.0.1"
-    vite: "npm:4.5.1"
+    vite: "npm:4.5.5"
     vite-tsconfig-paths: "npm:^4.2.1"
     webextension-polyfill: "npm:^0.10.0"
     websocket-as-promised: "npm:^2.0.1"
@@ -8853,9 +8853,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:4.5.1":
-  version: 4.5.1
-  resolution: "vite@npm:4.5.1"
+"vite@npm:4.5.5":
+  version: 4.5.5
+  resolution: "vite@npm:4.5.5"
   dependencies:
     esbuild: "npm:^0.18.10"
     fsevents: "npm:~2.3.2"
@@ -8889,7 +8889,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 352a94b13f793e4bcbc424d680a32507343223eeda8917fde0f23c1fa1ba3db7c806dade8461ca5cfb270154ddb8895a219fdd4384519fe9b8e46d1cf491a890
+  checksum: cde5a1d80ae61b2c0b2e2a04938e10aa8821a4c2c625f1dcd6eff179f0c9ce98a5b3c8fd62b54a81299568f7747fff4d35ffecc0e7f7ff34d76124d94a24ce9b
   languageName: node
   linkType: hard
 
