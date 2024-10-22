@@ -2683,9 +2683,9 @@ __metadata:
   linkType: hard
 
 "chrome-types@npm:^0.1.240":
-  version: 0.1.240
-  resolution: "chrome-types@npm:0.1.240"
-  checksum: 3dca6d109bb07449b536ee555cedd85361248a0680dfc8ac0be89226d19a824c74633af1d67abf1ff0fe353de345fa2a04988bff8c05f2d79098bb5802a3c323
+  version: 0.1.312
+  resolution: "chrome-types@npm:0.1.312"
+  checksum: 220f01e063a7e7e446def86ac8408a9f4bf18b731b4ed8aae42c3682a615cd6286e38e0faf927dce4320912b944d586b1b936fca270eb20743fb9689122cb238
   languageName: node
   linkType: hard
 
